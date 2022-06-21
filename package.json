@@ -1,6 +1,6 @@
 {
   "name": "another-koa-router",
-  "version": "0.1.1-maintain1",
+  "version": "0.1.1-maintain2",
   "main": "./router.js",
   "dependencies": {
     "@types/koa": "^2.13.4",
