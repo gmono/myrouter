@@ -1,0 +1,15 @@
+{
+  "name": "another-koa-router",
+  "version": "0.1.1-maintain1",
+  "main": "./router.js",
+  "dependencies": {
+    "@types/koa": "^2.13.4",
+    "ts-metacode": "^1.4.6-maintain4"
+  },
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "devDependencies": {
+    "koa": "^2.13.4"
+  }
+}
